@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Modar Abbass. I am fron Syria and currently living in Egypt
+- 👋 Hi, I’m Modar Abbass. I am from Syria and currently living in Egypt
 - 👀 I’m interested in Programming Languages in general and .NET in particular
 - 🌱 I’m currently working as a Senior Software Developer at D.G. MediaTech, A Cypriot Based IT company. We enjoy doing good programs!
 - 💞️ I’m looking torelocate the northway path (Cyprus - Austria - Germany - Sweden - Canada) although I prefer warmer countries more.
